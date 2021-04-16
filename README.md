@@ -1,2 +1,3 @@
 # SpringBoot-Demo
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+
+## BUILD STATUS : [![Build Status](https://travis-ci.com/isouvik23/SpringBootDemo.svg?branch=master)](https://travis-ci.com/isouvik23/SpringBootDemo)
