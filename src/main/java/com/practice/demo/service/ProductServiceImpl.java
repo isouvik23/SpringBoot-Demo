@@ -1,6 +1,6 @@
-package service;
+package com.practice.demo.service;
 
-import model.Product;
+import com.practice.demo.model.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;

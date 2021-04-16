@@ -1,4 +1,4 @@
-package model;
+package com.practice.demo.model;
 
 public class Product {
     private String id;
